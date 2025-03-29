@@ -1,4 +1,5 @@
 .DS_Store
+.idea
 **/.ipynb_checkpoints
 **/__pychache__
 hw2-sql/hw2-res.ipynb
